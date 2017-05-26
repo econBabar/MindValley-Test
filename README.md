@@ -1,6 +1,3 @@
-# MindValley-Test
-Created library as a test
-
 Copyright [2017] [Muhammad Babar]
 
 Licensed under the Apache License, Version 2.0 (the "License");
